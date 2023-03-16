@@ -86,3 +86,4 @@ function App({ user, signOut }) {
 }
 
 export default withAuthenticator(App);
+
